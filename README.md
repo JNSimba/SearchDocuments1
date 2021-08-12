@@ -1,4 +1,4 @@
-# SearchDocuments
+# SearchDocuments1
 基于Hadoop的文档检索系统
 
 利用Mapreduce进行的倒排索引，并且建立二级索引<br/>
